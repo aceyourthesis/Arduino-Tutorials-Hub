@@ -24,14 +24,14 @@ Here's the updated **Pre-requisites** table with "Using Git and GitHub" added:
 
 ### 📚 Pre-requisites  
 
-| Topic #    | Title                                      | Repository Link                                    |  
-|------------|--------------------------------------------|---------------------------------------------------|  
-| 1          | Setting Up the Development Environment     | [View Tutorial](#link-to-setup-environment)       |  
-| 2          | Installing Drivers (CP21xx, CH34x, etc.)   | [View Tutorial](#link-to-installing-drivers)      |  
-| 3          | Basics of Soldering                       | [View Tutorial](#link-to-soldering-basics)        |  
-| 4          | Working with Circuit Diagrams             | [View Tutorial](#link-to-circuit-diagrams)        |  
-| 5          | Understanding Power Supply Basics          | [View Tutorial](#link-to-power-supply-basics)     |  
-| 6          | Using Git and GitHub with VS Code                     | [View Tutorial](#link-to-git-and-github)          |  
+| Topic #    | Title                                                       | Repository Link                                                                      |  
+|------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------|  
+| 1          | Setting Up Visual Studio Code for Arduino Programming       | [View Tutorial](https://github.com/aceyourthesis/vs-code-platform-io-setup)          |  
+| 2          | Installing Drivers (CP21xx, CH34x, etc.)                    | [View Tutorial](https://github.com/aceyourthesis/installing-arduino-board-drivers)   |  
+| 3          | Basics of Soldering                                         | [View Tutorial](https://github.com/aceyourthesis/basics-of-soldering)                |  
+| 4          | Working with Circuit Diagrams                               | [View Tutorial](https://github.com/aceyourthesis/working-with-circuit-diagram)       |  
+| 5          | Understanding Power Supply Basics                           | [View Tutorial](https://github.com/aceyourthesis/basics-of-power-supply)             |  
+| 6          | Using Git and GitHub with VS Code                           | [View Tutorial](https://github.com/aceyourthesis/vs-code-github-setup)               |  
 
 
 ---
