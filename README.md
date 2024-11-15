@@ -20,6 +20,17 @@ This repository serves as the central hub for all our Arduino tutorials. Each tu
 
 ## 📚 Tutorial List  
 
+### Pre-requisites  
+| Topic #    | Title                                      | Repository Link                                    |  
+|------------|--------------------------------------------|---------------------------------------------------|  
+| 1          | Setting Up the Development Environment     | [View Tutorial](#link-to-setup-environment)       |  
+| 2          | Installing Drivers (CP21xx, CH34x, etc.)   | [View Tutorial](#link-to-installing-drivers)      |  
+| 3          | Basics of Soldering                       | [View Tutorial](#link-to-soldering-basics)        |  
+| 4          | Working with Circuit Diagrams             | [View Tutorial](#link-to-circuit-diagrams)        |  
+| 5          | Understanding Power Supply Basics          | [View Tutorial](#link-to-power-supply-basics)     |  
+
+---
+
 ### Arduino Uno  
 | Tutorial # | Title                                   | Repository Link                                    |  
 |------------|-----------------------------------------|---------------------------------------------------|  
