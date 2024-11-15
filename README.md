@@ -20,7 +20,10 @@ This repository serves as the central hub for all our Arduino tutorials. Each tu
 
 ## 📚 Tutorial List  
 
-### Pre-requisites  
+Here's the updated **Pre-requisites** table with "Using Git and GitHub" added:
+
+### 📚 Pre-requisites  
+
 | Topic #    | Title                                      | Repository Link                                    |  
 |------------|--------------------------------------------|---------------------------------------------------|  
 | 1          | Setting Up the Development Environment     | [View Tutorial](#link-to-setup-environment)       |  
@@ -28,6 +31,8 @@ This repository serves as the central hub for all our Arduino tutorials. Each tu
 | 3          | Basics of Soldering                       | [View Tutorial](#link-to-soldering-basics)        |  
 | 4          | Working with Circuit Diagrams             | [View Tutorial](#link-to-circuit-diagrams)        |  
 | 5          | Understanding Power Supply Basics          | [View Tutorial](#link-to-power-supply-basics)     |  
+| 6          | Using Git and GitHub with VS Code                     | [View Tutorial](#link-to-git-and-github)          |  
+
 
 ---
 
@@ -99,6 +104,12 @@ Got questions or need assistance? Reach out via:
 - **Facebook Group:** [Join here](https://web.facebook.com/groups/aceyourthesis/)  
 
 ---
+
+💖 Support the Project
+If you find this tutorial series helpful, consider supporting us! Your contributions enable us to continue creating detailed tutorials, crafting quality content, and sharing valuable knowledge with the maker community.
+
+Ways to Donate:
+GCash: 09300201927
 
 Start your Arduino journey today! Explore the tutorials, follow along, and bring your ideas to life.  
 
